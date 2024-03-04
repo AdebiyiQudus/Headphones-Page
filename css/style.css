@@ -75,6 +75,10 @@ img {
   color: #555;
 }
 
+.container  p {
+  color: #CCCCCC;
+}
+
 .section-a {
   margin: 2rem 0;
 }
