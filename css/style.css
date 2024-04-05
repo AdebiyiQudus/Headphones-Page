@@ -102,6 +102,8 @@ img {
 
 .section-b {
   position: relative;
+  /* The bg img should only appear once and should be aligned to the bottom of the container, if the container is taller than the bg img , the img will be displayed at the bottom of the container
+  and if the container is shorter than the bg img the bottom portion of the img  will be visible*/
   background: url("https://i.ibb.co/1RS1dqC/section-b.jpg") no-repeat bottom
     center/cover;
   height: 600px;
